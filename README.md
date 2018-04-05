@@ -1,6 +1,6 @@
 Etape : 1 Démarrer steam et allez dans bibliothèque
 
-https://cdn.discordapp.com/attachments/414547468349472768/414550324917829633/etape_1.png
+<img=https://cdn.discordapp.com/attachments/414547468349472768/414550324917829633/etape_1.png</img>
 
 Etape : 2  clic droit sur SCP : Secret  Laboratory et allez dans propriété
 
