@@ -1,14 +1,14 @@
 Mort dans une explosion.
 Chute mortelle
-Décédé pour re-confiner de nouveau SCP-106.
+DÃ©cÃ©dÃ© pour re-confiner de nouveau SCP-106.
 Perdu dans la dimension de poche.
 Les restes de SCP-106.
-Choc électrique à haute tension.
-Écrasé par une lourde structure.
-Il y a beaucoup de blessures par balle sur le corps. Très probablement, une munition [ammotype] fut utilisée.
-Cou cassé à la base du crâne.
-N'a pas survécu à sa rencontre avec SCP-106.
-Il a été guéri de la peste.
+Choc Ã©lectrique Ã  haute tension.
+Ã‰crasÃ© par une lourde structure.
+Il y a beaucoup de blessures par balle sur le corps. TrÃ¨s probablement, une munition [ammotype] fut utilisÃ©e.
+Cou cassÃ© Ã  la base du crÃ¢ne.
+N'a pas survÃ©cu Ã  sa rencontre avec SCP-106.
+Il a Ã©tÃ© guÃ©ri de la peste.
 Cause inconnue de la mort.
 C'est le corps de <b>[user]</b>, il etait [class] !\n\nLa cause de la mort : [cause]
-A été tué par SCP-096.
+A Ã©tÃ© tuÃ© par SCP 096.
