@@ -1,4 +1,4 @@
-<size=80>VOUS AVEZ ÉTÉ EXPULSÉ</size>\nLe serveur a forcé l'arrêt de votre connexion.\n<size=26>\nVous avez été banni temporairement par un administrateur\nou vous ne remplissez pas les conditions du serveur (e.g. la connexion sur steam).\nPour un temps de bannissement - l'auteur du jeu n'en est <u>pas</u> responsable.\n</size>
+<size=80>VOUS AVEZ ÉTÉ EXPULSÉ</size>\nLe serveur a forcé l'arrêt de votre connexion.\n<size=26>\nVous avez été banni temporairement par un administrateur\nou vous ne remplissez pas les conditions du serveur (e.g. la connexion via steam).\nPour un temps de bannissement - les auteurs du jeu ne sont <u>pas</u> responsables de la durée du bannissement.\n</size>
 <size=80>ERREUR</size>\nL'hôte spécifié n'est pas disponible.
 <size=80>ERREUR</size>\nLa connection spécifié n'existe pas.
 <size=80>ERREUR</size>\nLe canal spécifié n'existe pas.
