@@ -56,3 +56,6 @@ PAS DE SERVEURS DISPONIBLES
 APPUYER SUR ESC POUR FERMER / ANNULER
 <size=30>CHANGEMENT DES TOUCHES DU CLAVIER</size>
 MAX PARTICULES SANG
+Limite de FPS
+<size=20>La limite de FPS ne fonctionne pas quand la Synchronisation verticale est activée !</size>
+Définir par défaut
