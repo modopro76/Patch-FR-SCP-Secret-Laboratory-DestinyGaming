@@ -1,4 +1,4 @@
-﻿Tuez tout le monde\nNe laissez personne s'échapper\nCoopérez avec d'autres <color=#f00>SCP</color>
+Tuez tout le monde\nNe laissez personne s'échapper\nCoopérez avec d'autres <color=#f00>SCP</color>
 Échappez-vous de la fondation\nCoopérez avec les <color=#008f1e>Insurrection du Chaos</color>\nÉvitez les autres équipes
 Vous allez bientôt réapparaitre.
 Tuez tout le monde\nNe laissez personne s'échapper\nCoopérer avec d'autres <color=#f00>SCP</color>
@@ -13,3 +13,4 @@ Aidez <color=#FFFF7CFF>les scientifiques</color> à s'échapper\nNeutralisez les
 Aidez <color=#FFFF7CFF>les scientifiques</color> à s'échapper\nNeutralisez les autres équipes
 Aidez <color=#FFFF7CFF>les scientifiques</color> à s'échapper\nNeutralisez les autres équipes
 Suivez les objectifs donnés.
+Aidez <color=#FFFF7CFF>les scientifiques</color> à s'échapper\nCoopérez avec <color=#0096FF>les NTF</color>\Neutralisez vos ennemies.
