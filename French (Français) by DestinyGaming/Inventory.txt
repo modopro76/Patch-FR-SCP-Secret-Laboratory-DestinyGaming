@@ -1,4 +1,4 @@
-﻿Carte de Concierge\n<size=14><color=#ffc>Confinement SCP : Tier 1</color></size>\n<size=16>\nAccès chambres de confinement : <color=#ff6600>BAS</color>\nAccès armurerie : <color=#ff0000>AUCUN</color>\nAccès Intercom : <color=#ff0000>NON</color>\n\nAccès aux points de contrôles : <color=#ff0000>NON</color>\nAutorisation porte d'entrée : <color=#ff0000>NON</color>\n</size>
+Carte de Concierge\n<size=14><color=#ffc>Confinement SCP : Tier 1</color></size>\n<size=16>\nAccès chambres de confinement : <color=#ff6600>BAS</color>\nAccès armurerie : <color=#ff0000>AUCUN</color>\nAccès Intercom : <color=#ff0000>NON</color>\n\nAccès aux points de contrôles : <color=#ff0000>NON</color>\nAutorisation porte d'entrée : <color=#ff0000>NON</color>\n</size>
 Carte de Scientifique\n<size=14><color=#ffc>Confinement SCP : Tier 2</color></size>\n<size=16>\nAccès chambres de confinement : <color=#ffff00>MOYEN</color>\nAccès armurerie : <color=#ff0000>AUCUN</color>\nAccès Intercom : <color=#ff0000>NON</color>\n\nAccès aux points de contrôles : <color=#ff0000>NON</color>\nAutorisation porte d'entrée : <color=#ff0000>NON</color>\n</size>
 Carte de Scientifique majeure\n<size=14><color=#ffc>Confinement SCP : Tier 3</color></size>\n<size=16>\nAccès chambres de confinement : <color=#ffff00>MOYEN</color>\nAccès armurerie : <color=#ff0000>AUCUN</color>\nAccès Intercom : <color=#ff0000>NON</color>\n\nAccès aux points de contrôles : <color=#ff0000>NON</color>\nAutorisation porte d'entrée : <color=#ff0000>NON</color>\n</size>
 Carte du gestionnaire de zone\n<size=14><color=#f77>Administration : Tier 1</color></size>\n<size=16>\nAccès chambres de confinement : <color=#ff6600>BAS</color>\nAccès armurerie : <color=#ff0000>AUCUN</color>\nAccès Intercom : <color=#ff0000>NON</color>\n\nAccès aux points de contrôles : <color=#00ff00>OUI</color>\nAutorisation porte d'entrée : <color=#ff0000>NON</color>\n</size>
@@ -11,17 +11,17 @@ Carte de l'administrateur du site\n<size=14><color=#f77>Administration : Tier 2<
 Dispositif de l'insurrection du chaos\n<size=14><color=#f77>Administration : Tier 3</color></size>\n<size=16>\nAccès chambres de confinement : <color=#ffff00>MOYEN</color>\nAccès armurerie : <color=#00ff00>TOUTES</color>\nAccès Intercom : <color=#00ff00>OUI</color>\n\nAccès aux points de contrôles : <color=#00ff00>OUI</color>\nAutorisation porte d'entrée : <color=#00ff00>OUI</color>\n</size>
 Carte de l'O5\n<size=14><color=#f77>Administration : Tier 4</color></size>\n<size=16>\nAccès chambres de confinement : <color=#00ff00>TOUTES</color>\nAccès armurerie : <color=#00ff00>TOUTES</color>\nAccès Intercom : <color=#00ff00>OUI</color>\n\nAccès aux points de contrôles : <color=#00ff00>OUI</color>\nAutorisation porte d'entrée : <color=#00ff00>OUI</color>\n</size>
 Radio\n\n<size=14>Dispositif alimenté par batterie pour la communication a distance.</size>
-Pistolet M1911\n\n<size=14>Pistolet d'autodéfense de base.</size>
+Pistolet COM15\n\n<size=14>Pistolet d'autodéfense de base.</size>
 Trousse Médicale\n\n<size=14>Permet de guérir vos blessures.</size>
 Lampe Torche\n\n<size=14>"Que la lumiere soit !"</size>
 MicroHID\n\n<size=14>Lanceur de décharge mobile à haute intensité.</size>
 Pièce\n\n<size=14>Il semblerait que ce soit une pièce de 50 centimes !</size>
-Tasse\n\n<size=14>Une tasse de liquide non identifié.</size>
-Réserve de munitions\n\n<size=14>Vérifiez votre réserve de munitions.</size>
+Gobelet\n\n<size=14>Une gobelet de liquide non identifié.</size>
+Gestionnaire d'armes\n\n<size=14>Customiser les armes.</size>
 Epsilon-11 Fusil Standard\n\n<size=14>Équipement Nine-Tailed Fox standard.</size>
-Pistolet SBX-7\n\n<size=14>Munition pour pistolet à fusion.</size>
+Projet 90\n\n<size=14>Une amélioration de la P90 de base.</size>
 Munitions
-Skorpion SMG\n\n<size=14>Pistolet mitrailleur léger.</size>
+MP7\n\n<size=14>Equipement de garde.</size>
 M249\n\n<size=14>Mitrailleuse lourde.\nÉquipement standard IDC</size>
 Grenade électrique\n\n<size=14>Grenade formant un champ de décharge électrique.</size>
 Grenade fumigène\n\n<size=14>Obscure la vue de l'ennemi.</size>
