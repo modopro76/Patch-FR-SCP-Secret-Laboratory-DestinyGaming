@@ -12,3 +12,6 @@ Le prochain round débutera dans [time] secondes.
 CAPACITÉ SPECIALE
 CRÉER UN PORTAIL
 UTILISER LE PORTAIL
+VOUS ETES MORT
+Vous avez été tué par
+comme
