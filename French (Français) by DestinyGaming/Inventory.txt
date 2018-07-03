@@ -23,8 +23,8 @@ Projet 90\n\n<size=14>Une amélioration de la P90 de base.</size>
 Munitions
 MP7\n\n<size=14>Equipement de garde.</size>
 M249\n\n<size=14>Mitrailleuse lourde.\nÉquipement standard IDC</size>
-Grenade électrique\n\n<size=14>Grenade formant un champ de décharge électrique.</size>
-Grenade fumigène\n\n<size=14>Obscure la vue de l'ennemi.</size>
+Grenade à fragmentation\n\n<size=14>Boom !</size>
+Grenade incapacitant\n\n<size=14>Eblouie l'ennemie.</size>
 Désarmeur\n\n<size=14>Désarme l'ennemi.</size>
 Munition
 Munition
