@@ -12,6 +12,6 @@ Il a été guéri de la peste.
 Cause inconnue de la mort.
 C'est le corps de <b>[user]</b>, il etait [class] !\n\nLa cause de la mort : [cause]
 A été tué par SCP 096.
-
-
+Morsure puissante au crâne.
+Fondu par une substance fortement corrosive.
 Plaies post-explosion
