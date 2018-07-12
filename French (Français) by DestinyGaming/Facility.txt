@@ -1,4 +1,4 @@
-﻿SON DES VOIX
+SON DES VOIX
 OK
 <size=35>FORCER LE DÉMARRAGE</size>
 RECONFINEMENT DE SCP-106\nFORCER LA PROCÉDURE
@@ -17,7 +17,7 @@ SENSIBILITÉ SOURIS
 PIRATAGE
 Ramassage...
 Augmenter la luminosité <b>aggrave considérablement l'immersion </b>en jeu.\nEssayez de définir cette valeur aussi bas que possible.\n<b>Il est recommandé de laisser la valeur par défaut.</b>
-[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Vérrouiller la porte utilise la capacité spéciale
+[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Verrouiller la porte utilise la capacité spéciale
 LA PORTE A ÉTÉ VERROUILLÉE PAR SCP-079
 Mode plein écran
 Êtes-vous sûr de vouloir quitter le serveur ?
