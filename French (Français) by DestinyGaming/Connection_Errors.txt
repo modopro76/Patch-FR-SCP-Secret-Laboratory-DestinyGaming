@@ -15,5 +15,4 @@
 <size=80>REDEMARRAGE DU ROUND</size>\n<size=35>Le serveur redemarre le niveau...</size>
 <size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
 <size=80>INCOMPATIBILITÉ DE VERSION</size>\nVotre version de jeu est différente de celle du serveur\n(La votre - [your]; Serveur - [server])
-<size=80>CONNEXION</size>
-<size=35>Chargement du serveur...</size>
+<size=80>CONNECTÉ</size>\n<size=35>Chargement du serveur...</size>
