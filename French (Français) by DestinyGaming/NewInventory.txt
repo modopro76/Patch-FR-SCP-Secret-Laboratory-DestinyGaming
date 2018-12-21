@@ -28,3 +28,4 @@ Grenade incapacitant:Fait mal aux yeux !!!
 Menottes:Clic gauche pour menotter, clic droit pour délier. \nMaintenez E sur quelqu'un qui est menotté dans votre équipe pour les libérer.
 Dropped 7.62:Pas de description.
 Dropped 9mm:Pas de description.
+USP:Pas de description.
