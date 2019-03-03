@@ -59,3 +59,4 @@ MAX PARTICULES SANG
 Limite de FPS
 <size=20>La limite de FPS ne fonctionne pas quand la Synchronisation verticale est activée !</size>
 Définir par défaut
+Nous utilisons steam en tant que forum. (Cliquez sur le logo en dessous pour accéder au forum)
