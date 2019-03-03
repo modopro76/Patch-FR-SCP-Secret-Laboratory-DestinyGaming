@@ -11,7 +11,3 @@ Assistance à la mort des scientifiques
 Assistance à la mort des SCP
 PORTES VERROUILLÉES : [LOCKED_NUM]<size=25>CLIQUE DROIT POUR TOUS LES DEVERROUILLER </size>
 Interactions générales
-Vous êtes attaqués !
-Les générateurs ont été mis en évidence sur la carte
-DANGER
-SCP{0}MTF et gardes{1}Scientifiques{2}Classe-D{3}Insurrection du chaos{4}
