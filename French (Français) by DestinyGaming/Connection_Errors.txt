@@ -4,8 +4,8 @@
 <size=80>ERREUR</size>\nLe canal spécifié n'existe pas.
 <size=80>ERREUR</size>\nLe serveur est complet.
 <size=80>ERREUR</size>\nVous avez reçu de mauvais paquets.
-<size=80>ERREUR</size>\nConnexion perdue (connexion expiré).
-<size=80>ERREUR</size>\nConnexion perdue (connexion expiré).
+<size=80>ERREUR</size>\nConnexion perdue (connexion expirée).
+<size=80>ERREUR</size>\nConnexion perdue (connexion expirée).
 <size=80>ERREUR</size>\nL'opération n'est pas supportée.
 <size=80>ERREUR</size>\nMauvaise configuration du serveur (versions non compatible).
 <size=80>ERREUR</size>\nMauvaise configuration du serveur.
