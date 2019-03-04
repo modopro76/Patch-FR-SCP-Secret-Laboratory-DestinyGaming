@@ -12,6 +12,6 @@ Les deux camps ont subi des pertes. Le gagnant est indéterminé.
 La bombe nucléaire a tué [summary_warhead_kills] personnes.
 La bombe nucléaire n'a pas explosé durant ce match.
 La partie a prise [summary_round_minutes] minutes et [summary_round_seconds] secondes.
-[summary_scp_terminated] SCP ont été exterminés  
+[summary_scp_terminated] SCP ont été exterminés
 Prochain round dans [summary_next_round_countdown] secondes.
 Vous avez infligé [summary_damages] dégâts, et tué [summary_kills] joueurs.

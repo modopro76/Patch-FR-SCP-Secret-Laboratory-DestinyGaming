@@ -6,4 +6,3 @@ Les cartes sont l'un des éléments les plus importants dans le jeu, permettant 
 Si vous voulez vraiment vous échapper - je vous suggère de trouver une meilleure carte.
 Chaque carte a ses propres niveaux d'accès. Vous pouvez comparer les cartes en placant le curseur de la souris sur chacune d'entre elles dans votre inventaire.
 Toutes mes félicitations ! Vous venez de passer la premiere partie du tutoriel !
-

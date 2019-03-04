@@ -1,13 +1,13 @@
-Carte de concierge:Pas de description  
-Carte de scientifique:Pas de description 
-Carte du superviseur de recherche:Pas de description  
-Carte du gestionnaire de zone:Pas de description  
-Carte de garde:Pas de description 
-Carte de recrue MTF:Pas de description 
-Carte d'ingénieur du confinement:Pas de description 
-Carte de lieutenant MTF:Pas de description 
-Carte de commandant MTF:Pas de description 
-Carte de l'administrateur du site:Pas de description 
+Carte de concierge:Pas de description
+Carte de scientifique:Pas de description
+Carte du superviseur de recherche:Pas de description
+Carte du gestionnaire de zone:Pas de description
+Carte de garde:Pas de description
+Carte de recrue MTF:Pas de description
+Carte d'ingénieur du confinement:Pas de description
+Carte de lieutenant MTF:Pas de description
+Carte de commandant MTF:Pas de description
+Carte de l'administrateur du site:Pas de description
 Dispositif de l'insurrection du chaos
 Carte de l'O5
 Radio:SR = Courte portée \nMR = Moyenne portée \nLR = Longue Portée \nUR = Très longue portée \nUtilise de la batterie quand elle est lançée. La longue portée utilise plus de batterie.

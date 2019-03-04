@@ -26,7 +26,7 @@ Mode de rendu de la lumière:\nQuand il est faible, le jeu devient moche. Il est
 Synchronisation verticale
 CONNEXION
 PARAMÈTRES DE RENDU
-Modifier les préférences d'ombres. Les réglages de ces curseurs avec des valeurs inférieures peuvent augmenter la fluidité du jeu. 
+Modifier les préférences d'ombres. Les réglages de ces curseurs avec des valeurs inférieures peuvent augmenter la fluidité du jeu.
 <size=75>MENU PRINCIPAL</size>
 MODE RENDU DE LUMIÈRE
 Flou de mouvement
