@@ -23,10 +23,13 @@ Mode plein écran
 Êtes-vous sûr de vouloir quitter le serveur ?
 Options de base. Liste complète des options dans le menu principal.
 EN ATTENTE DE JOUEURS
-CONTINUER
+SOMMAIRE
 CONTINUER
 VOLUME PRINCIPAL
 connecté(s)
 Vous vous êtes échappé et vous avez rejoint les unités NTF.
 Vous vous êtes echappé et vous avez rejoint l'insurrection du Chaos.
 VOUS ÊTES
+Temps pris pour s'échapper : {0} minutes and {1} secondes
+Attendez {0} pour pouvoir réutiliser {1} .
+MAINTENEZ <color=white><b>F1</b></color> POUR PLUS D'INFORMATIONS.

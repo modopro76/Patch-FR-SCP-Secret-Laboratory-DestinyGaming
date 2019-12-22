@@ -11,7 +11,7 @@ ANTICRÉNELAGE
 POST\nTRAITEMENT
 CRÉDITS
 QUITTER LE JEU
-PLEINE ÉCRAN
+PLEIN ÉCRAN
 RÉSOLUTION
 <size=25>CORRECTION DES COULEURS</size>
 Entrer une adresse IP...
@@ -60,3 +60,28 @@ Limite de FPS
 <size=20>La limite de FPS ne fonctionne pas quand la Synchronisation verticale est activée !</size>
 Définir par défaut
 Nous utilisons steam en tant que forum. (Cliquez sur le logo en dessous pour accéder au forum)
+PARAMÈTRES AUDIOS
+VOLUME PRINCIPAL
+MUSIQUE DU MENU
+CHAT VOCAL
+EFFETS SONORES
+OPTION DE JEU
+FONDU RAPIDE DE L'INTRODUCTION
+Le texte d'introduction de classe va disparaître plus rapidement. 
+SCP-079 - CHANGER DE MODE DE VUE
+Appuyer une fois pour changer de mode de caméra.
+SCP-079 - POST-TRAIMTEMENT
+S'il est désactivé, les effets de caméras vont être grandement réduits.
+BALANCEMENT DE LA TÊTE
+Permet à la caméra première personne de se balancer pendant les mouvements.
+ACTIVER LA COURSE
+Courir en permuttant entre allumer / éteint, au lieu de maintenir la touche enfoncée.
+SÉPARER LA BARRE DE VIE ARTIFICIELLE
+Donne au nombre de vie artificiel sa propre barre de vie, au lieu d'un revêtement.
+Notre traduction est open-source sur GitHub !\nVous voulez aider ? Cliquez ici pour accéder au repo.
+RICH PRESENCE
+Si elle est activée, votre statut va être montré sur Discord / Steam
+MONTRER LA VALEUR EXACTE DES POINTS DE VIE
+Montre la valeur exacte des points de vie, au lieu d'un simple pourcentage.
+LOBBY PUBLIQUE
+Si c'est activé, vos amis Steam peuvent vous rejoindre sans votre permission.

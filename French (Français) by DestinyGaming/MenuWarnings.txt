@@ -1,0 +1,4 @@
+ATTENTION
+OK
+Un processeur <b> Intel graphics</b> non supporté a été détecté. Il est <b>recommandé</B> d'utiliser une carte graphique <b>non-intégrée</b>./nLe jeu peut <b>souvent planter</b> avec cette configuration actuelle.
+Une mise à jour importante du système requise par le chat vocal ne peut pas être trouvée. Assurez vous que votre Windows est complètement mis à jour, sinon le jeu pourra ne pas fonctionner correctement. Si le problème persiste, contactez notre équipe de support technique pour plus d'assistance.

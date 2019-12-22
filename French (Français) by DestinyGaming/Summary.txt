@@ -3,15 +3,15 @@ Victoire SCP
 Victoire MTF
 Victoire Classe-D
 IMPASSE
-Ils sont responsables de la mort de [summary_scpfrags] humains.
+Ils sont responsables de la mort de {0} humains.
 Menace éradiquée. Cet endroit est de nouveau sûr.
 Toute la sécurité de la Fondation a été exterminée.
 Les deux camps ont subi des pertes. Le gagnant est indéterminé.
-[summary_d_escaped] Classe(s)-D échapées
-[summary_s_escaped] scientifique(s) ont survécus
-La bombe nucléaire a tué [summary_warhead_kills] personnes.
+{0} Classe(s)-D échapées
+{0} scientifique(s) ont survécus
+La bombe nucléaire a tué {0} personnes.
 La bombe nucléaire n'a pas explosé durant ce match.
-La partie a prise [summary_round_minutes] minutes et [summary_round_seconds] secondes.
-[summary_scp_terminated] SCP ont été exterminés
-Prochain round dans [summary_next_round_countdown] secondes.
-Vous avez infligé [summary_damages] dégâts, et tué [summary_kills] joueurs.
+La partie a prise {0} minutes et {1} secondes.
+{0} SCPs ont été exterminés
+Prochain round dans {0} secondes.
+Vous avez infligé [summary_damages] {0} dégâts, et tué {1} joueurs.

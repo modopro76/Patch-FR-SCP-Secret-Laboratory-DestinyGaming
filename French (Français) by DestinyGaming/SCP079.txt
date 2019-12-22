@@ -1,7 +1,7 @@
 POUVOIR AUXILIAIRE
-EXPERIENCE
+EXPÉRIENCE
 FLUX CAMÉRA EN LIGNE
-APPUYEZ SUR [KEY] POUR FAIRE BASCULER LA CARTE DE SURVEILLANCE
+APPUYEZ SUR {0} POUR FAIRE BASCULER LA CARTE DE SURVEILLANCE
 Expérience acquise :
 Travail de coopération
 Assistance à la mort de classe D
@@ -11,3 +11,7 @@ Assistance à la mort des scientifiques
 Assistance à la mort des SCP
 PORTES VERROUILLÉES : [LOCKED_NUM]<size=25>CLIQUE DROIT POUR TOUTES LES DÉVERROUILLER </size>
 Interactions générales
+Vous vous faites attaquer !
+Les générateurs ont été mis en évidence sur la carte.
+DANGER
+SCPs{0}MTF & Gardes{1}Scientifiques{2}Classe-D{3}Insurrection du Chaos{4}

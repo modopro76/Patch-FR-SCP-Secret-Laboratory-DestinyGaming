@@ -1,0 +1,29 @@
+Habilitée non trouvée : L'ID de l'habilitée qui est associée à cette habilitée n'existe pas.
+Courir : Augmente votre vitesse de déplacement, mais aussi augmente le bruit que vous faites en vous déplaçant.
+S'accroupir : Vos mouvements deviennent silencieux, au prix de votre vitesse de déplacement.
+Inventaire : Ouvre votre inventaire et sélectionne un objet que vous avez ramassé en utilisant le bouton gauche de votre souris, ou le jeter en utilisant le bouton droit de la souris.
+Désarmé : Vous n'avez rien. Trouvez quelque chose. N'importe quoi.
+Carte d'accès : Vous avez une carte d'accès, ce n'est pas la meilleure mais ne la perdez pas.
+Equipement standard : Vous êtes équipé d'un fusil, de grenades, d'une radio, d'un désarmeur et d'une carte d'accès.
+Armé et dangereux : Une mitrailleuse légère vous a été confiée, ainsi qu'un équipement de piratage (carte d'accès), un kit de premier secours ainsi que des antidouleurs.
+Vitesse accrue : Quand aucun humain ne vous voit, vous allez très vite. Si vous êtes directement regardé par un humain, vous ne pouvez pas bouger ou attaquer, mais tous les humains vous regardant vous cligner des yeux simultanément toutes les quelques secondes, vous laissant ainsi bouger.
+Panique : Plus votre vie descend, plus vous allez vite.
+Gouffre : Vous pouvez placer une piscine noire de corrosion et vous téléportez à celle-ci n'importe quand. Se téléporter prend quelques secondes. Vous pouvez déplacer le gouffre en le plaçant une nouvelle fois.
+Corrosion : Vous pouvez traverser les portes en marchant à travers elles.
+Chant du cygne : Vous ne prenez quasiment aucun dégat des balles, mais vous pouvez être instantanément reconfiné par un sacrifice humain dans votre chambre de confinement. 
+Dimension de poche : Capture un humain et le téléporte dans la dimension de poche qui le tue rapidement. Les humains doivent trouver la bonne sortie, ou mourir.
+Timide : Par défaut, vous bougez lentement et ne pouvez pas attaquer, en émettant des cris discrets. Si un humain vous regarde assez, vous arrêtez de bouger pendant 5 secondes et vous vous enragez.
+Rage anti-sociale : Quand vous êtes enragé, vous bougez extrêmement vite et criez fort. L'état de rage dure environ trente secondes; après ce délai, vous ne pouvez plus être enragé pendant une courte période, pendant laquelle vous ne crierez plus. \nQuand vous serez enragé,cliquez ou maintenir ce bouton va instantanément tuer les humains à portée.
+Panne : Quand vous êtes enragé, interagir avec les portes les détruit.
+Ultrasensible : Vous ne pouvez pas voir les humains sauf s'ils courent, vous touchent, ou tirent avec une arme en étant assez proche de vous.
+Prédateur : Vos pas sont silencieux. Maintenir la touche assignée va augmenter votre vitesse, mais vos mouvements vont être audibles.
+Imitation : Vous pouvez parler à haute voix à tous les joueurs aux alentour.
+Mordre : Attaquer un humain en mélée va instantanément lui faire beaucoup de dégats.
+Antidote : Toucher un humain en étant assez proche va le tuer instantanément.
+La Cure : Réanime un humain tué récemment. Les humains soignés vont jouer des zombies, qui courent vite mais ont une vie basse. \nIl n'y a pas de nombre maximum d'humain pouvant être réanimé.
+Frappe : Attaque un humain et lui inflige un montant modéré de dégats.
+Ouvrir / Fermer les portes : Vous pouvez interagir avec les portes pour les ouvrir ou les fermer, en utilisant 5 AP. Vous pouvez aussi les verrouiller, en utilisant petit à petit votre AP, empêchant ainsi l'ouverture ou la fermeture jusqu'à ce que vous retireriez le verrouillage ou jusqu'à ce que vous soyez à court d'AP.
+Surcharge Tesla : Vous pouvez activer une porte Tesla pour 50 AP, la déclanchant instantanément, tuant ainsi tous les joueurs passant dedans ou à proximité.
+Verrouillage : Commençant au niveau d'accès 3, vous pouvez interagir avec quelques portes pour les verrouiller, éteindre les lumières, ou verrouiller toutes les portes. Quand ils sont dans une salle verrouillée, les humains ne voient pas SCP-173.
+Virtuellement indestructible : Cinq générateurs apparaissent à l'intérieur de la zone lourde de confinement. S'ils sont tous débloqués et activés, vous serez reconfinés. \nLes générateurs ont un compte-à-rebours que chaque joueur peut interrompre en pressant le bouton "ANNULER" sur le générateur.
+Briser la nuque : Maintenir ou cliquer pour briser la nuque d'un humain, ce qui le tuera instantanément à partir du moment où il ne vous voit pas ou qu'il est en train de cligner des yeux.

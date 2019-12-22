@@ -14,18 +14,23 @@ Radio:SR = Courte portée \nMR = Moyenne portée \nLR = Longue Portée \nUR = Tr
 Pistolet COM-15:Pas de description
 Kit de premier secours:Soigne vos blessures mais pas vos problèmes de nuques.
 Flashlight:Que la lumière soit !
-Micro H.I.D.:Lanceur de décharge mobile à haute intensité.
-Pièce de monnaie:Pas de description
-Tasse:Pas de description
-Tablette de modification d'armes:Utilisé pour donner des munitions & pour modifier des armes
-Epsilon-11 Fusil Standard:Pas de description
-P90:Pas de description
-Dropped 5.56:Pas de description
-MP7:Pas de description
-M249:Pas de description
+Micro H.I.D.:A utiliser seulement en dernier recours.
+SCP-500:Soigne tout mais avec des effets secondaires.
+SCP-207:Augmente de manière néfaste la motricité.
+Tablette de modification d'armes:Utilisé pour donner des munitions & pour modifier des armes.
+MTF-E11-SR:No description
+Project 90:No description
+Dropped 5.56:No description
+MP7:No description
+M249:No description
 Grenade à fragmentation:Boom !
-Grenade incapacitant:Fait mal aux yeux !!!
+Grenade incapacitante : Fait mal aux yeux !
 Menottes:Clic gauche pour menotter, clic droit pour délier. \nMaintenez E sur quelqu'un qui est menotté dans votre équipe pour les libérer.
-Dropped 7.62:Pas de description.
-Dropped 9mm:Pas de description.
-USP:Pas de description.
+Dropped 7.62:No description.
+Dropped 9mm:No description.
+USP:No description.
+SCP-018:Super balle rebondissante avec une efficacité extrême.
+SCP-268:Quand il est porté, permet de rendre temporairement invisible, cependant cet effet est interrompu par toute interaction.
+Adrenaline:Augmente temporairement l'endurance.
+Anti-douleurs:Soigne de blessures mineures.
+Pièce:Vous n'êtes pas sûr de la raison pour laquelle vous la gardez... mais dispose des propriétés intéressantes pour SCP-914.
